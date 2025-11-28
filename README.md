@@ -32,7 +32,6 @@ MVC_BolaAnimacion/
 ├── physics/
 │   ├── Ball.java               # Clase base de bolas (Runnable)
 │   └── PlayerBall.java         # Bola controlable por el jugador
-├── CONTROLES_JUGADOR.md        # Documentación de controles
 └── README.md                   # Este archivo
 ```
 
